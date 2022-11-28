@@ -16,5 +16,13 @@ UdpConnectorService/CMakeLists.txt
 
 UdpConnectorService/tmp
 
+### Libs Directory ###
+
+UdpConnectorService/libs
+
+### Config Directory ###
+
+UdpConnectorService/config
+
 ##### END OF UDPCONNECTOR BLOCK #####
 
