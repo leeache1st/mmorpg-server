@@ -1,0 +1,16 @@
+##### START OF UDPCONNECTOR BLOCK #####
+
+### JetBrains IDE Staff ###
+
+UdpConnectorService/.idea
+
+### Build Files  ###
+
+UdpConnectorService/build
+
+### CMake File ###
+
+UdpConnectorService/CMakeLists.txt
+
+##### END OF UDPCONNECTOR BLOCK #####
+
