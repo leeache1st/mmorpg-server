@@ -12,5 +12,9 @@ UdpConnectorService/build
 
 UdpConnectorService/CMakeLists.txt
 
+### Temporary Files ###
+
+UdpConnectorService/tmp
+
 ##### END OF UDPCONNECTOR BLOCK #####
 
